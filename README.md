@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!! 👋
 
 <!--
 **AnishDikxit/AnishDikxit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Anish Dixit, an undergraduate at Indian Institute of Technology (BHU), Varanasi, India.
+
+🌱 I’m currently learning Golang, ReactJS, Kubernetes...  
+📫 How to reach me: Connect with me on my LinkedIn, link attached in my about.  
+👯 I’m looking to collaborate on building web applications  
+😄 Pronouns: He/Him
