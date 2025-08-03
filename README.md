@@ -18,5 +18,5 @@ I am Anish Dixit, an undergraduate at Indian Institute of Technology (BHU), Vara
 
 🌱 I’m currently learning Golang, NextJS, Kubernetes...  
 📫 How to reach me: Connect with me on my [LinkedIn](https://www.linkedin.com/in/anish-dixit-7785a4201/).  
-👯 I’m looking to collaborate on building web applications  
+👯 I’m looking to collaborate on low latency applications and backend technologies.
 😄 Pronouns: He/Him
