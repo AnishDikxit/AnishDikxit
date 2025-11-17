@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Anish Dixit, an undergraduate at Indian Institute of Technology (BHU), Varanasi, India.
 
-🌱 I’m currently learning Golang, NextJS, Kubernetes...  
+🌱 I’m currently learning Generative AI, GoLang...  
 📫 How to reach me: Connect with me on my [LinkedIn](https://www.linkedin.com/in/anish-dixit-7785a4201/).  
 👯 I’m looking to collaborate on low latency applications and backend technologies.  
 😄 Pronouns: He/Him
