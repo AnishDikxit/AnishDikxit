@@ -1,22 +1,12 @@
-## Hi there!! 👋
+## Hi, I'm Anish 👋
 
-<!--
-**AnishDikxit/AnishDikxit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IDD (B.Tech + M.Tech) graduate from IIT (BHU) Varanasi — Mathematics & Computing, 2026.
 
-Here are some ideas to get you started:
+**What I build:**
+- 🤖 **[async-deep-hedging](https://github.com/AnishDikxit/async-deep-hedging)** — PPO-LSTM agent for delta-neutral hedging in a Hawkes volatility market. Native C++ matching engine via Pybind11, 50ms async execution queue, distributed multi-core rollouts. M.Tech thesis.
+- 🔍 **[RAG_Chatbot](https://github.com/AnishDikxit/RAG_Chatbot)** — YouTube Q&A with hybrid BM25+FAISS retrieval, cross-encoder re-ranking, semantic chunking, and Ragas ablation evaluation. Faithfulness: 0.892, Context Recall: 0.940.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Anish Dixit, an undergraduate at Indian Institute of Technology (BHU), Varanasi, India.
+**Stack:** Python · PyTorch · C++ · LangChain · FAISS · FastAPI  
+**Interests:** AI engineering, agentic systems, RL, retrieval pipelines
 
-🌱 I’m currently learning RAG, MCP, Langchain, Langgraph...  
-📫 How to reach me: Connect with me on my [LinkedIn](https://www.linkedin.com/in/anish-dixit-7785a4201/) or [Mail](mailto:anish.22053@gmail.com).  
-👯 I’m looking to collaborate on GenAI applications and backend technologies.  
-😄 Pronouns: He/Him
+📫 [LinkedIn](https://www.linkedin.com/in/anish-dixit-7785a4201/) · [Portfolio](https://anish-portfolio-iota-gules.vercel.app/) · anish.22053@gmail.com
