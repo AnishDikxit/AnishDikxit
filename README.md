@@ -312,14 +312,6 @@ Mentoring 64 undergraduate students in Object-Oriented Programming using Java an
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnishDikxit&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
